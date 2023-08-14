@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+D:/CMake/share/cmake-3.22/Modules/CMakeCInformation.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakeCXXInformation.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakeGenericSystem.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakeRCInformation.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake
+D:/CMake/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/CMake/share/cmake-3.22/Modules/Compiler/MSVC-C.cmake
+D:/CMake/share/cmake-3.22/Modules/Compiler/MSVC-CXX.cmake
+D:/CMake/share/cmake-3.22/Modules/Platform/Windows-MSVC-C.cmake
+D:/CMake/share/cmake-3.22/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/CMake/share/cmake-3.22/Modules/Platform/Windows-MSVC.cmake
+D:/CMake/share/cmake-3.22/Modules/Platform/Windows.cmake
+D:/CMake/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/CMakeLists.txt
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/build/CMakeFiles/3.22.4/CMakeCCompiler.cmake
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/build/CMakeFiles/3.22.4/CMakeCXXCompiler.cmake
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/build/CMakeFiles/3.22.4/CMakeRCCompiler.cmake
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/build/CMakeFiles/3.22.4/CMakeSystem.cmake

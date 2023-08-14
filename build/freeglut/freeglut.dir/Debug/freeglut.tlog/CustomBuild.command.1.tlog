@@ -1,0 +1,10 @@
+^E:\ONEDRIVE - SHANGHAITECH.EDU.CN\CPP FILES\HW9\THIRD_PARTY\FREEGLUT\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe "-SE:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9" "-BE:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/build" --check-stamp-file "E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/build/freeglut/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

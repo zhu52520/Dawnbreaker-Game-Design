@@ -1,0 +1,172 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/Release/d.lib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 140,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 147,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 153,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -MD"
+				},
+				{
+					"fragment" : "-std:c++17"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/src/d"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/third_party/freeglut/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/src/ProvidedFramework"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/third_party/SOIL/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/src/PartForYou"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "ProvidedFramework::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "PartForYou::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "SOIL::@745e8b768a24c48fa97d"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "freeglut::@9f489802bb4ec236f2d4"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "d::@6890427a1f51a3e7e1df",
+	"name" : "d",
+	"nameOnDisk" : "d.lib",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "src/d/4.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/d/4.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

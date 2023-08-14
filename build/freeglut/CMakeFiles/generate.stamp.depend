@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+D:/CMake/share/cmake-3.22/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+D:/CMake/share/cmake-3.22/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+D:/CMake/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake
+D:/CMake/share/cmake-3.22/Modules/CheckCCompilerFlag.cmake
+D:/CMake/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake
+D:/CMake/share/cmake-3.22/Modules/CheckFunctionExists.cmake
+D:/CMake/share/cmake-3.22/Modules/CheckIncludeFile.cmake
+D:/CMake/share/cmake-3.22/Modules/CheckIncludeFileCXX.cmake
+D:/CMake/share/cmake-3.22/Modules/CheckIncludeFiles.cmake
+D:/CMake/share/cmake-3.22/Modules/CheckTypeSize.cmake
+D:/CMake/share/cmake-3.22/Modules/FindOpenGL.cmake
+D:/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+D:/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+D:/CMake/share/cmake-3.22/Modules/GNUInstallDirs.cmake
+D:/CMake/share/cmake-3.22/Modules/Internal/CheckCompilerFlag.cmake
+D:/CMake/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake
+D:/CMake/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/third_party/freeglut/CMakeLists.txt
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/third_party/freeglut/FreeGLUTConfig.cmake.in
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/third_party/freeglut/config.h.in
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/third_party/freeglut/freeglut.pc.in
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/third_party/freeglut/freeglut.rc.in
+E:/OneDrive - shanghaitech.edu.cn/Cpp Files/HW9/third_party/freeglut/src/fg_version.h.in

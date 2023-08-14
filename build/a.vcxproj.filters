@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\OneDrive - shanghaitech.edu.cn\Cpp Files\HW9\src\a\1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\OneDrive - shanghaitech.edu.cn\Cpp Files\HW9\src\a\1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\OneDrive - shanghaitech.edu.cn\Cpp Files\HW9\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AA4F2263-BAA9-3FF6-8E67-D46A8540EADA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BBAB90B5-D492-3CAA-8C2D-4A176100DFBE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
